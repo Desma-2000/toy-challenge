@@ -1,9 +1,9 @@
 # toy-challenge
 *****
-### Author : Desma Chebet March 18th 2024
+### Author : Desma Chebet March 24th 2024
 ****
 ## Project Description
-This is me.I share about my skills, educational background, hobbies and my favourite sports activities and also how to contact me.
+This is my first assignment on phase1 Moringa school software engineering .
 ******
 
 
@@ -32,9 +32,7 @@ This is me.I share about my skills, educational background, hobbies and my favou
 
 > Run using live server
 *****
-## Live Link
-Or you can access the web application directly via this [https://descodes.netlify.app](https://descodes.netlify.app)
-*****
+
 ## Dependencies
 - Google fonts
 - Font awesome Icons
